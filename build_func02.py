@@ -8,4 +8,4 @@ def main():
     Returns:
         float: the value of the expression
     """
-    return
+    return 3*(-17)/20

@@ -9,4 +9,4 @@ def main(x, y):
     Returns:
         int: the value of the expression
     """
-    return
+    return int(3*(y**0.5)+(x**(2/3)))
